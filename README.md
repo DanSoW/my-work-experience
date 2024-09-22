@@ -36,7 +36,9 @@ The entire description will be presented in English.
 4. [Custom component for working with date and time.](https://github.com/DanSoW/my-work-experience/tree/main?tab=readme-ov-file#4-custom-component-for-working-with-date-and-time)
 5. [System monitoring page](https://github.com/DanSoW/my-work-experience/tree/main?tab=readme-ov-file#5-system-monitoring-page)
 
-## Completed tasks
+<details>
+  <summary style="font-weight: bold; font-size: 24px">Completed tasks</summary>
+  
 ### 1. Virtualization of tables, drop-down lists and other components. 
 [to LLC "SOKRAT"](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
 
@@ -146,3 +148,4 @@ $$f(x) = {-9e}^{-7} * {x}^{6} + {6e}^{-5} * {x}^{5} - 0.0013 * {x}^{4} + 0.0139 
 ![datetime component](https://github.com/DanSoW/my-work-experience/blob/main//images/sokrat/status_system_4.png?raw=true)
 
 ![datetime component](https://github.com/DanSoW/my-work-experience/blob/main//images/sokrat/status_system_5.png?raw=true)
+</details>
