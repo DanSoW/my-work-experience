@@ -21,6 +21,8 @@ The entire description will be presented in English.
 
 # LLC "SOKRAT"
 
+[to content](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#my-work-experience)
+
 ***Location***: Russia, Irkutsk\
 ***Position:*** Software Engineer\
 ***Grade***: Middle\
@@ -36,7 +38,7 @@ The entire description will be presented in English.
 
 ## Completed tasks
 ### 1. Virtualization of tables, drop-down lists and other components. 
-[to content](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
+[to LLC "SOKRAT"](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
 
 ***Description***: A web application very often receives a large number of different data for lists or tables. Their number can reach 30,000, 50,000 or even 100,000 entries and all of them need to be placed on one page without static pagination. Virtualization is perfect for solving this problem. In the process, I got acquainted with the already existing virtualization algorithm and based on it created universal components that are used mostly in a web application.
 - [x] **Virtualization of directory tables.**
@@ -64,7 +66,7 @@ The entire description will be presented in English.
 ![virtualize table](https://github.com/DanSoW/my-work-experience/blob/main//images/sokrat/virtual_column_components.png?raw=true)
 
 ### 2. A component for managing time zones. 
-[to content](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
+[to LLC "SOKRAT"](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
 
 ***Description***: During the work, it was necessary to create a mechanism for users that would allow them to manage time zones. Such a mechanism should be flexible and allow you to set multiple time intervals on the same time line. It should also be taken into account that intervals can be combined, copied and moved to adjacent lines. The program code of this component was developed by me on assignment from the organization. This task is one of the most difficult that I have ever solved.
 
@@ -89,7 +91,7 @@ Fot the right indicator time ragne:
 $$f(x) = {-9e}^{-7} * {x}^{6} + {6e}^{-5} * {x}^{5} - 0.0013 * {x}^{4} + 0.0139 * {x}^{3} - 0.0729 * {x}^{2} + 0.6818 * x - 0.8993$$
 
 ### 3. Transferring information from one object to another.
-[to content](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
+[to LLC "SOKRAT"](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
 
 ***Description***: There are many objects in the system containing information that can be transferred to other objects. This function was implemented by me using the D3.js library, with which I interacted with canvas and rendered the necessary elements. Informagtion is transferred from one object to another, which are connected by a line. The line can be red or blue, depending on whether the transfer of information is successful or not.
 
@@ -106,7 +108,7 @@ $$f(x) = {-9e}^{-7} * {x}^{6} + {6e}^{-5} * {x}^{5} - 0.0013 * {x}^{4} + 0.0139 
 ![transferring info](https://github.com/DanSoW/my-work-experience/blob/main//images/sokrat/transfer_info_by_object_3.png?raw=true)
 
 ### 4. Custom component for working with date and time.
-[to content](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
+[to LLC "SOKRAT"](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
 
 ***Description***: The existing date and time component had a number of flaws that needed to be fixed. I have developed a new component for working with date and time, which is displayed the same way in different browsers. The component works the same as the standard date and time component in the Chrome browser.
 
@@ -123,7 +125,7 @@ $$f(x) = {-9e}^{-7} * {x}^{6} + {6e}^{-5} * {x}^{5} - 0.0013 * {x}^{4} + 0.0139 
 ![datetime component](https://github.com/DanSoW/my-work-experience/blob/main//images/sokrat/custom_datetime_component_3.png?raw=true)
 
 ### 5. System monitoring page.
-[to content](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
+[to LLC "SOKRAT"](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
 
 ***Description***: There are many components in the system that need to be constantly monitored. This page contains all the most important components of the system, the state of which must be constanlty checked or performed any tasks with them.
 
