@@ -24,6 +24,7 @@ The entire description will be presented in English.
 2. [A component for managing time zones.](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#2-a-component-for-managing-time-zones)
 3. [Transferring information from one object to another.](https://github.com/DanSoW/my-work-experience/tree/main?tab=readme-ov-file#3-transferring-information-from-one-object-to-another)
 4. [Custom component for working with date and time.](https://github.com/DanSoW/my-work-experience/tree/main?tab=readme-ov-file#4-custom-component-for-working-with-date-and-time)
+5. [System monitoring page](https://github.com/DanSoW/my-work-experience/tree/main?tab=readme-ov-file#5-system-monitoring-page)
 
 ## Completed tasks
 ### 1. Virtualization of tables, drop-down lists and other components. 
