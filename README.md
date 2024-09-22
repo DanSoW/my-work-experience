@@ -11,6 +11,14 @@ This section will contain a description of my most interesting experience in the
 
 The entire description will be presented in English.
 
+***Content***:
+1. [LLC "SOKRAT"](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#llc-sokrat)
+1.1. [Virtualization of tables, drop-down lists and other components.](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#1-virtualization-of-tables-drop-down-lists-and-other-components)
+1.2. [A component for managing time zones.](https://github.com/DanSoW/my-work-experience?tab=readme-ov-file#2-a-component-for-managing-time-zones)
+1.3. [Transferring information from one object to another.](https://github.com/DanSoW/my-work-experience/tree/main?tab=readme-ov-file#3-transferring-information-from-one-object-to-another)
+1.4. [Custom component for working with date and time.](https://github.com/DanSoW/my-work-experience/tree/main?tab=readme-ov-file#4-custom-component-for-working-with-date-and-time)
+1.5. [System monitoring page](https://github.com/DanSoW/my-work-experience/tree/main?tab=readme-ov-file#5-system-monitoring-page)
+
 # LLC "SOKRAT"
 
 ***Location***: Russia, Irkutsk\
